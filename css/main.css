@@ -101,7 +101,7 @@ a {
     border-bottom-color: #9d0039!important;
 }
 
-@media screen and (max-width: 995px){
+@media screen and (max-width: 1367px){
     #header-nav-wrapper{
         max-width: 100%;
     }
